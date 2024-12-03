@@ -61,3 +61,10 @@ DIY Diagnostics: Develop affordable and accessible kits for detecting ceruloplas
 Community Awareness: Create digital tools or platforms for patient education and symptom tracking.
 Synthetic Biology: Engineer microbes to sequester copper in the gut, reducing absorption.
 Precision Medicine: Use AI to analyze genetic and biochemical data to optimize treatment plans for individual patients.
+
+Location of ATP7B: 
+Transcript (Including UTRs)
+   Position: hg38 chr13:51,932,669-52,011,450 Size: 78,782 Total Exon Count: 21 Strand: -
+Coding Region
+   Position: hg38 chr13:51,934,756-52,011,337 Size: 76,582 Coding Exon Count: 21
+
