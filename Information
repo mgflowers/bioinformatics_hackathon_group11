@@ -1,2 +1,63 @@
 Wilson's Disease
+Wilson’s Disease Overview
+Wilson's disease is a rare autosomal recessive genetic disorder caused by mutations in the ATP7B gene. This gene encodes a copper-transporting ATPase, which is essential for the excretion of excess copper into bile and its incorporation into ceruloplasmin. The defective ATP7B protein leads to copper accumulation in the liver, brain, eyes, and other tissues, causing severe damage.
 
+Key Features
+Symptoms:
+
+Hepatic: Jaundice, hepatitis, cirrhosis, or acute liver failure.
+Neurological: Tremors, dystonia, Parkinsonism-like symptoms, ataxia, and dysarthria.
+Psychiatric: Depression, anxiety, mood swings, personality changes, and psychosis.
+Ophthalmological: Kayser-Fleischer rings (copper deposits in the cornea).
+Other: Renal dysfunction, hemolytic anemia, and joint problems.
+Age of Onset:
+Symptoms typically appear between 5 and 35 years old but may develop at any age.
+
+Diagnosis:
+
+Low ceruloplasmin levels.
+Elevated urinary copper excretion.
+High hepatic copper concentration (via liver biopsy).
+Genetic testing for ATP7B mutations.
+Slit-lamp examination for Kayser-Fleischer rings.
+Prevalence:
+Wilson's disease is estimated to affect about 1 in 30,000 people worldwide.
+
+Current Treatments
+Chelation Therapy:
+
+Penicillamine: Binds copper, enhancing its excretion via urine.
+Trientine: An alternative chelator with fewer side effects.
+Zinc Therapy:
+
+Inhibits copper absorption in the gastrointestinal tract.
+Often used for maintenance therapy after initial stabilization.
+Dietary Adjustments:
+
+Avoid copper-rich foods such as shellfish, liver, nuts, and chocolate.
+Monitor water sources for copper contamination.
+Liver Transplant:
+
+For severe liver failure cases unresponsive to medical therapy.
+Research Areas
+Gene Therapy:
+
+CRISPR and other genetic approaches to correct ATP7B mutations.
+Delivery systems for effective liver-targeted therapies.
+Biomarkers:
+
+Non-invasive methods for early diagnosis, especially in asymptomatic patients.
+Monitoring treatment efficacy with precision biomarkers.
+Drug Development:
+
+New chelators with fewer side effects and greater efficacy.
+Small molecules that restore ATP7B function or mitigate copper toxicity.
+Patient Monitoring:
+
+Development of wearable devices to track neurological or hepatic symptoms.
+Apps or tools to aid in dietary and medication adherence.
+Potential for Biohacking Projects
+DIY Diagnostics: Develop affordable and accessible kits for detecting ceruloplasmin or copper levels in underserved areas.
+Community Awareness: Create digital tools or platforms for patient education and symptom tracking.
+Synthetic Biology: Engineer microbes to sequester copper in the gut, reducing absorption.
+Precision Medicine: Use AI to analyze genetic and biochemical data to optimize treatment plans for individual patients.
