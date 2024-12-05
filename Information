@@ -62,9 +62,23 @@ Community Awareness: Create digital tools or platforms for patient education and
 Synthetic Biology: Engineer microbes to sequester copper in the gut, reducing absorption.
 Precision Medicine: Use AI to analyze genetic and biochemical data to optimize treatment plans for individual patients.
 
+Gene associated with disease: ATP7B
+
 Location of ATP7B: 
 Transcript (Including UTRs)
    Position: hg38 chr13:51,932,669-52,011,450 Size: 78,782 Total Exon Count: 21 Strand: -
 Coding Region
    Position: hg38 chr13:51,934,756-52,011,337 Size: 76,582 Coding Exon Count: 21
+
+Primarily expressed in the liver but can also be expressed in brain, kidney, and placenta.
+Expression starts in fetal development and continues throughout life. 
+Encodes copper-transporting ATPase2, important for copper metabolism in body. 
+   Helps withs incorporating copper into ceruloplasmin (protein that carries copper in the blood)
+   Assists in removal of excess copper from liver cells into bile for excretion. 
+In Wilsons Disease, the gene carries mutations that leads to a malfunctional protein.
+   Copper fails to be properly incorporated into ceruloplasmin, causing low ceruloplasmin in blood. 
+   Excess copper accumulates in liver and not effectively excreted into bile.
+   With time, copper can accumulate in other organs (brain and kidney) leading to increase symptoms. 
+
+Hypothesis: 
 
